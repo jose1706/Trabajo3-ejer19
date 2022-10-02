@@ -1,0 +1,8 @@
+
+package ejer19C3;
+public class Main {
+    public static void main(String[] args) {
+        VentanaE19 v2 = new VentanaE19();
+        v2.setVisible(true);
+    }
+}
